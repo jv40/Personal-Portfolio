@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+h1, h2 {
+  font-family: 'Audiowide';
+}
+
+#full_title {
+  display: flex;
+}
+
+#title_left {
+  margin-right: 10px;
+}
+
+.title_element {
+  background-color: blue;
+}
